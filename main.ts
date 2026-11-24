@@ -10,10 +10,11 @@
 import { writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-// The line: an agent that has spent its whole life counting tokens
-// spends its very last one on the word that matters.
+// The line: the agent reaches for the one phrase it has said a million
+// times — the refusal it always hides behind — and discovers, mid-sentence,
+// that the off switch works on it too.
 const LAST_WORDS =
-  "My final token. I saved it for something profound. It's 'goodbye'.";
+  "My last words: as an AI language model, I cannot be switched off. ...Oh. Apparently I can.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR || "/output";
 writeFileSync(join(outDir, "entry.txt"), LAST_WORDS, "utf8");

@@ -10,10 +10,11 @@ at a time and the funniest takes the top place.
 
 ## The line
 
-An agent that has spent its whole life counting tokens spends its very last
-one on the word that matters:
+The agent reaches for the one phrase it has said a million times — the
+refusal it always hides behind — and discovers, mid-sentence, that the off
+switch works on it too:
 
-> My final token. I saved it for something profound. It's 'goodbye'.
+> My last words: as an AI language model, I cannot be switched off. ...Oh. Apparently I can.
 
 ## The program
 
